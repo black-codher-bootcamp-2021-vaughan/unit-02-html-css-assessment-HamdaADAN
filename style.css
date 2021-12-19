@@ -1,0 +1,90 @@
+h1 {
+    margin: center 140px; 
+    margin-top: 0px;
+    color:black;
+    font:bolder;
+    font-size: 60px;
+             font-style: oblique;
+             font-weight: bold;
+             object-position: 500cm;
+             padding: 60px;
+}
+body{
+    background-color:cadetblue;
+}
+
+ul {
+    font-size: 30;
+}
+
+button
+
+section{
+    border: 5px Solid black;
+    height: 40vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+   
+    
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+h2 {
+
+    font-size: 30px;
+    font-style: italic; 
+    font-style: bold;
+    color:black;
+} 
+
+.container{
+    height: 5vh;
+    display:grid;
+    align-items: right;
+    justify-content: right;
+}
+.portfolio-img {
+    width: 800px;
+}
+
+div.fixed{
+position: fixed;
+bottom: 0;
+right: 0;
+width: 300px; 
+border: 3px solid;
+}
+nav{
+display:flex;
+width:84%;
+margin: auto;
+padding:20px 0;
+align-items: center;
+justify-content: space-between;
+
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+
+}
+
+footer {
+    display: block;
+    margin: 300px;
+    height: 10vh;
+    display:grid;
+    align-items: center;
+    justify-content: center;
+  }
+
+
